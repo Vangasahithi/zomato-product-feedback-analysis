@@ -36,7 +36,8 @@ The objective of this project is to transform unstructured customer reviews into
 
 ## Key Outcomes
 ## Analysis Visualization
-* Converted unstructured customer feedback into structured themes.
+* Converted unstructured customer feedback into structured themes
+![Zomato Feedback Theme Frequency](zomato_feedback_theme_frequency.png)
 * Identified recurring customer pain points.
 * Prioritized product improvement opportunities.
 * Generated actionable recommendations based on user feedback.
@@ -55,16 +56,12 @@ The objective of this project is to transform unstructured customer reviews into
 
 ## Project Structure
 
-```text
-zomato-product-feedback-analysis/
-│
-├── README.md
-├── data/
-├── analysis/
-├── outputs/
-└── docs/
-```
+## Project Files
 
+- [Review Dataset](data/zomato_reviews.csv) — anonymized review dataset used for the analysis
+- [Feedback Analysis](analysis/feedback_analysis.csv) — theme-level analysis and prioritization
+- [Key Findings](outputs/key_findings.md) — major insights and product recommendations
+- [Project Summary](PROJECT_SUMMARY.md) — methodology, analysis areas, and limitations
 ## Disclaimer
 
 This project is intended for portfolio and educational purposes. The analysis is based on a limited sample of publicly available user reviews and does not represent the complete Zomato customer population.
