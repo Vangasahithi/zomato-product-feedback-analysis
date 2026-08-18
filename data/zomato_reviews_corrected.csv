@@ -1,0 +1,16 @@
+rating,review_date,review_text_anonymized,theme
+1,2026-08-11,"Order was accepted and later cancelled because food was unavailable at the restaurant, causing wasted time and inconvenience.",Order cancellation / restaurant availability
+1,2026-08-12,Delivery kept showing 15 minutes but did not arrive on time; customer support and delivery partner were unresponsive.,Delivery delay / customer support
+1,2026-08-06,Received incorrect quantities or items from restaurants and could not get a useful resolution or refund through support.,Incorrect or missing items / customer support
+1,2026-07-31,Removal of cash on delivery makes ordering difficult for users who avoid online payments; fees and food prices also feel expensive.,Payment options / pricing
+1,2026-08-08,"Order was marked delivered without being received, and repeated complaints did not receive a proper resolution.",Delivery failure / customer support
+1,2026-07-26,Items were misplaced during delivery and customer support was difficult to reach or unhelpful.,Order accuracy / customer support
+1,2026-08-09,Support chatbot repeatedly gave scripted responses and offered no clear path to reach a human agent.,Customer support / chatbot
+1,2026-08-08,"App prices were perceived as much higher than store prices, with additional packing charges and taxes.",Pricing / additional fees
+1,2026-08-04,"Order was cancelled after difficulty contacting the rider, and the customer reported not receiving the order amount back.",Cancellation / refund / customer support
+1,2026-07-02,"Delivery partners were sometimes assigned from far away, causing delays; cancellation could incur a full charge and customer support was difficult to reach.",Delivery management / cancellation / support
+1,2026-08-08,"High platform costs, packaging charges, incomplete orders, poor portions, and limited ways to verify missing items were reported.",Pricing / order accuracy / customer support
+1,2026-07-26,"Food listings and portion descriptions were perceived as misleading, with higher prices and insufficient sizing information.",Product information / pricing
+4,2026-08-03,"The app was considered reliable with good delivery, but the reviewer wanted more affordable prices and consistent food quality.",Pricing / food quality
+4,2026-08-05,"The service was described as reliable, convenient, and easy to use; suggested additions included parcel services, groceries, and a unified membership.",Product expansion / membership / value
+5,2026-06-13,"The app was praised for being easy to use, fast and reliable delivery, useful restaurant ratings and menus, and good overall experience.",Usability / delivery / restaurant discovery
