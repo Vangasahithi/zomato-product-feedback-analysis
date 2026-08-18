@@ -2,8 +2,7 @@
 
 ## Overview
 
-An AI-assisted product feedback analysis project that analyzes Zomato user reviews to identify recurring customer issues, pain points, and opportunities for product improvement.
-
+> An AI-assisted analysis of customer reviews to identify recurring pain points and prioritize product improvements.
 ## Objective
 
 The objective of this project is to transform unstructured customer reviews into structured insights that can support data-driven product decisions.
